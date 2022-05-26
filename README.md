@@ -73,6 +73,10 @@ python wsgi.py
 
 ![Screenshot](Screenshots/12.png)
 
+## Optional (If someone wants to delete the existing database, and create a new one):
+
+1) Delete the existing **database.db**.
+
 
 
 
