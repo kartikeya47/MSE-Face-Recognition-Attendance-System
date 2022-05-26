@@ -75,7 +75,33 @@ python wsgi.py
 
 ## Optional (If someone wants to delete the existing database, and create a new one):
 
-1) Delete the existing **database.db**.
+1. Delete the existing **database.db**.
+
+![Screenshot](Screenshots/16.png)
+
+2. Now, open any terminal in the **MSE-Face-Recognition-Attendance-System** Directory and type **python** in it.
+
+![Screenshot](Screenshots/13.png)
+
+3. Now type the following to import the db class:
+```
+from app.main import db
+```
+
+![Screenshot](Screenshots/14.png)
+
+4. Now, for creating the database, type:
+```
+db.create_all()
+```
+
+![Screenshot](Screenshots/15.png)
+
+5. Now, type:
+
+```
+exit()
+```
 
 
 
