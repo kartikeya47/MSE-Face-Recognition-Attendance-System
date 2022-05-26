@@ -12,7 +12,7 @@
 
 ![Screenshot](Screenshots/2.png)
 
-3. If Git is not installed on the machine, install Git from this link [link](https://git-scm.com/downloads).
+3. If Git is not installed on the machine, install Git from this [link](https://git-scm.com/downloads).
 
 ![Screenshot](Screenshots/3.png)
 
