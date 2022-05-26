@@ -14,7 +14,7 @@
 
 ![Screenshot](Screenshots/3.png)
 
-4. Now, go to the [repo](https://github.com/kartikeya47/MSE-Face-Recognition-Attendance-System), and click on **Bold**.
+4. Now, go to the [repo](https://github.com/kartikeya47/MSE-Face-Recognition-Attendance-System), and click on **Code**.
 
 ![Screenshot](Screenshots/4.png)
 
@@ -27,8 +27,8 @@
 ![Screenshot](Screenshots/6.png)
 
 7. Type the following line in the git bash terminal:
-'''
+```
 git clone https://github.com/kartikeya47/MSE-Face-Recognition-Attendance-System.git
-'''
+```
 
 ![Screenshot](Screenshots/7.png)
