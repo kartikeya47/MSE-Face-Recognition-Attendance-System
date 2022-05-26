@@ -107,6 +107,8 @@ db.create_all()
 exit()
 ```
 
+New Database has been created!
+
 
 
 
