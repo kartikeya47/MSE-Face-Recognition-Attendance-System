@@ -73,9 +73,9 @@ pip install -r requirements.txt
 python wsgi.py
 ```
 
-**Ctrl+Left Click** on the above url to go to launch the Web-App on the Browser.
-
 ![Screenshot](Screenshots/12.png)
+
+**Ctrl+Left Click** on the above url to go to launch the Web-App on the Browser.
 
 ## Optional (If someone wants to delete the existing database, and create a new one):
 
