@@ -57,6 +57,23 @@ cd ..
 
 The above steps have activated the **Python Virtual Environment**.
 
+10. Now, it's time to install the necessary Python Packages that are required to run the Web App:
+
+```
+pip install -r requirements.txt
+```
+
+![Screenshot](Screenshots/11.png)
+
+11. Now, all the major steps have taken place. Type the following command in the Git Bash Terminal to run the Web App:
+
+```
+python wsgi.py
+```
+
+![Screenshot](Screenshots/12.png)
+
+
 
 
 
