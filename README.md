@@ -4,7 +4,7 @@
 
 1. If Python is not installed on the machine, install Python from this [link](https://www.python.org/downloads/).
 
-![Screenshot](Screenshots/1.png)
+![Screenshot](Screenshots/1.png = 250x250)
 
 2. It's recommended to add Python to the path. By doing this, it would be directly added to the Environment Variables and then could be accessed from anywhere.
 
