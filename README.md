@@ -32,3 +32,31 @@ git clone https://github.com/kartikeya47/MSE-Face-Recognition-Attendance-System.
 ```
 
 ![Screenshot](Screenshots/7.png)
+
+8. Now, it's observable that a folder named **MSE-Face-Recognition-Attendance-System** has been created in the Desktop.
+
+![Screenshot](Screenshots/8.png)
+
+9. Type in the following commands in the git bash terminal now:
+```
+cd MSE-Face-Recognition-Attendance-System
+```
+```
+cd Scripts
+```
+```
+source activate
+```
+```
+cd ..
+```
+
+![Screenshot](Screenshots/9.png)
+
+![Screenshot](Screenshots/10.png)
+
+The above steps have activated the **Python Virtual Environment**.
+
+
+
+
